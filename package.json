@@ -1,0 +1,31 @@
+{
+  "name": "my_incredible_form",
+  "version": "1.0.0",
+  "description": "This is a simple form made with node.js, postgresql, html and css. Feel free to clone this repository and make some changes.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pg": "^7.7.1",
+    "express-session": "^1.15.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cramenorn/MyIncredibleForm.git"
+  },
+  "keywords": [
+    "node.js",
+    "css",
+    "html",
+    "postgresql"
+  ],
+  "author": "Davide Dolce aka Cramenorn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cramenorn/MyIncredibleForm/issues"
+  },
+  "homepage": "https://github.com/Cramenorn/MyIncredibleForm#readme"
+}
